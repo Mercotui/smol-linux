@@ -1,0 +1,2 @@
+# smol-linux
+Smol Linux
